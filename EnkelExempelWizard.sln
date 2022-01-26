@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnkelExempelWizard", "EnkelExempelWizard.csproj", "{9FC457C9-2F40-4590-9906-ED599983800F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FC457C9-2F40-4590-9906-ED599983800F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC457C9-2F40-4590-9906-ED599983800F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC457C9-2F40-4590-9906-ED599983800F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9FC457C9-2F40-4590-9906-ED599983800F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC457C9-2F40-4590-9906-ED599983800F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FC457C9-2F40-4590-9906-ED599983800F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0641CF42-AB0E-4F66-965C-A1C802A3956B}
+	EndGlobalSection
+EndGlobal
